@@ -56,10 +56,10 @@ main()
 
 # Lets is change the turning angle 
 
-
+'''
 Thank you for watching !
 Please subscribe my Channel
-
+'''
 
 
 
